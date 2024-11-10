@@ -98,10 +98,10 @@ const Qualifications = () => {
               <div className={toggleState === 2? "qualifications__content qualifications__content-active" : "qualifications__content"}>
                 <div className="qualifications__data">
                   <div>
-                    <h3 className="qualifications__title">Web Design</h3>
-                    <span className="qualifications__subtitle">Microsoft - Institute</span>
+                    <h3 className="qualifications__title">Graphic Designer</h3>
+                    <span className="qualifications__subtitle">Iremax - Tajikistan </span>
                     <div className="qualifications__calender">
-                      <i className="uil uil-calendar-alt"></i> 2021 - Present
+                      <i className="uil uil-calendar-alt"></i> 2021 - 2022
                     </div>
                   </div>
 
@@ -120,10 +120,10 @@ const Qualifications = () => {
                   </div>
 
                   <div>
-                    <h3 className="qualifications__title">Art Director</h3>
-                    <span className="qualifications__subtitle">Spain - Institute</span>
+                    <h3 className="qualifications__title">Web Development</h3>
+                    <span className="qualifications__subtitle">Police - Mongolia</span>
                     <div className="qualifications__calender">
-                      <i className="uil uil-calendar-alt"></i> 2021 - 2021
+                      <i className="uil uil-calendar-alt"></i> 2022 - 2023
                     </div>
                   </div>
 
@@ -131,10 +131,10 @@ const Qualifications = () => {
 
                 <div className="qualifications__data">
                   <div>
-                    <h3 className="qualifications__title">Web Development</h3>
-                    <span className="qualifications__subtitle">Spain - Institute</span>
+                    <h3 className="qualifications__title">Graphic Design</h3>
+                    <span className="qualifications__subtitle">Techstore - Mongolia</span>
                     <div className="qualifications__calender">
-                      <i className="uil uil-calendar-alt"></i> 2021 - Present
+                      <i className="uil uil-calendar-alt"></i> 2023 - 2024
                     </div>
                   </div>
 
